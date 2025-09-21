@@ -1,0 +1,9 @@
+{
+  "name": "com.slow-step.inspector-button",
+  "version": "1.0.0",
+  "displayName": "InspectorButton",
+  "description": "インスペクターにボタンを追加できるエディタ拡張",
+  "unity": "2021.3",
+  "author": "orisaki"
+  
+}
